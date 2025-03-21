@@ -19,7 +19,12 @@ The software is divided into two distinct parts -- one part for each ESP32 modul
 
 1. **Sensor Station Module**: This module reads distances for all three ultrasonic sensors and transmits the data to the second ESP32 via WiFi. 
 
-2. **Wearable Haptic Feedback Module**: This module receives distances from three sensors and, using a pre-defined threshold range, delivers haptic feedback to the user by sending a pulse through a vibration motor mounted on the user's wrist. 
+2. **Wearable Haptic Feedback Module**: This module receives distances from three sensors and, using a pre-defined threshold range, delivers haptic feedback to the user by sending a pulse through a vibration motor mounted on the user's wrist.
+
+
+### Code IDE: 
+
+Arduino IDE was used to develop, test, and upload code to the ESP32 modules. 
 
 
 
