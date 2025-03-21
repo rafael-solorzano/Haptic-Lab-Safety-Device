@@ -8,7 +8,7 @@ University-level biological laboratories often require laboratory coats and safe
 
 ### Live Demonstration
 
-[![Haptic Safety Device Demo](https://img.youtube.com/vi/iQ_7F2jJDRw.jpg)](https://youtu.be/iQ_7F2jJDRw)
+[![Watch the video](https://img.youtube.com/vi/iQ_7F2jJDRw/0.jpg)](https://youtu.be/iQ_7F2jJDRw)
 
 
 
